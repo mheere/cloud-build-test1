@@ -4,7 +4,7 @@
     <hr>
     <h3>11 Nov 2021</h3>
     <hr>
-    <h3>Greetings from Marcel & Ben!</h3>
+    <h3>Greetings from Ben & Marcel!</h3>
   </div>
 </template>
 

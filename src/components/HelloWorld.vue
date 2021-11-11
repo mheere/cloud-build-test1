@@ -3,6 +3,8 @@
     <h1>{{ msg }}</h1>
     <hr>
     <h3>11 Nov 2021</h3>
+    <hr>
+    <h3>Greetings from Marcel & Ben!</h3>
   </div>
 </template>
 
